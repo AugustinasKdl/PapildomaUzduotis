@@ -101,7 +101,7 @@ int main()
      for (itr2 = s.begin(); itr2 != s.end(); itr2++){
           temp = *itr2;
           if((temp.find(temp3) != std::string::npos) || (temp.find(temp4) != std::string::npos)){
-               out_f << temp;
+               out_f << temp << endl;
           }
      }
      out_f.close();
