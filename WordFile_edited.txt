@@ -1,0 +1,50 @@
+
+Age                 Pasikartojo:     2 kart.
+Britain             Pasikartojo:     4 kart.
+England             Pasikartojo:     3 kart.
+In                  Pasikartojo:     2 kart.
+Roman               Pasikartojo:     2 kart.
+The                 Pasikartojo:     4 kart.
+a                   Pasikartojo:     2 kart.
+ago                 Pasikartojo:     2 kart.
+and                 Pasikartojo:     5 kart.
+as                  Pasikartojo:     4 kart.
+at                  Pasikartojo:     3 kart.
+early               Pasikartojo:     2 kart.
+end                 Pasikartojo:     2 kart.
+has                 Pasikartojo:     2 kart.
+in                  Pasikartojo:     8 kart.
+inhabited           Pasikartojo:     2 kart.
+of                  Pasikartojo:    13 kart.
+people              Pasikartojo:     2 kart.
+south               Pasikartojo:     2 kart.
+the                 Pasikartojo:    18 kart.
+to                  Pasikartojo:     2 kart.
+was                 Pasikartojo:     2 kart.
+years               Pasikartojo:     3 kart.
+--------------------------------------------------------------------------------------------------------------------------
+Age  3  3
+Britain  3  4  6  6
+England  1  2  6
+In  3  4
+Roman  4  6
+The  1  3  6  6
+a  1  7
+ago  1  2
+and  1  2  3  3  6
+as  1  3  4  6
+at  1  2  2
+early  1  5
+end  3  6
+has  1  3
+in  1  1  2  2  2  2  4  6
+inhabited  1  3
+of  1  3  3  3  3  4  4  5  6  6  6  6  7
+people  4  6
+south  3  4
+the  1  2  3  3  3  3  3  4  4  4  4  4  4  4  5  6  6  6
+to  2  2
+was  2  3
+years  1  2  2
+--------------------------------------------------------------------------------------------------------------------------
+https://emokymai.vu.lt/mod/assign/view.php?id=171038
