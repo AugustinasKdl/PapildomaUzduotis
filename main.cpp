@@ -45,14 +45,9 @@ int main()
                bool found = temp.find(temp4) != std::string::npos;
                bool found2 = temp.find(temp3) != std::string::npos;
                if (found || found2){
-                    cout << "String found" << endl;
-                    temp2 = temp;
-                    cout << temp;
-                    if(temp2 != ""){
-                    TempWords.word = temp2;
+                    TempWords.word = temp;
                     TempWords.lineNr = templine;
                     WordStr.push_back(TempWords); 
-               }
                }
                else{
                     temp2 = "";
@@ -85,7 +80,7 @@ int main()
                out_f << setw(20) << left << *itr2 << right <<"Pasikartojo: " << right << setw(5) << block.count(*itr2) << setw(6) << "kart.";
           }
      }
-     out_f << endl << "--------------------------------------------------------------------------------------------------------------------------";
+     out_f << endl << "-------------------------------------------------------------";
      for (itr2 = s.begin(); itr2 != s.end(); itr2++){
           if(block.count(*itr2) > 1){
                if(itr2 != s.begin()){
@@ -102,7 +97,7 @@ int main()
                }
           }
      }
-     out_f << endl << "--------------------------------------------------------------------------------------------------------------------------" << endl;
+     out_f << endl << "-------------------------------------------------------------" << endl;
      for (itr2 = s.begin(); itr2 != s.end(); itr2++){
           temp = *itr2;
           if((temp.find(temp3) != std::string::npos) || (temp.find(temp4) != std::string::npos)){
